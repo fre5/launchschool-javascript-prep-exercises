@@ -1,0 +1,16 @@
+/*
+1 - output bar
+2 - > let foo = "bar";
+    undefined
+    > console.log(foo);
+    bar
+    undefined
+    > foo;
+    'bar'
+3 - let foo = "bar";
+    console.log(foo);
+    foo;
+    bar
+    "bar"
+
+*/

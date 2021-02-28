@@ -1,0 +1,1 @@
+//No error, but returns undefined because there is only 3 elements in the array and [3] is calling the 4th array element.
